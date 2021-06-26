@@ -10,7 +10,8 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:reddit-feeder.helloWorld"
+    "onCommand:reddit-feeder.helloWorld",
+    "onStartupFinished"
   ],
   "main": "./out/extension.js",
   "contributes": {
